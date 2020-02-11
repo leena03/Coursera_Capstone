@@ -1,1 +1,1 @@
-this is just a learning and practice repository
+This repository is created as part of the course - Applied Data Science Capstone  
